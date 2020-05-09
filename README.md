@@ -1,2 +1,2 @@
 # clothes
-Mega Hack project
+[10° lugar desafio da VTEX - Mega Hack](https://www.megahack.com.br/resultados/)
